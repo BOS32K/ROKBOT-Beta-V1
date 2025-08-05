@@ -2,6 +2,9 @@
 
 ## 自述
 此腳本包含客戶端驗證，製作時間花費28h，目前屬於測試版本仍有些許邏輯錯誤
+exe檔案過大可能需要單獨下載
+[點我下載download](https://www.mediafire.com/file/l11utz31s9gk478/rokbot_Beta_V1.zip/file)
+
 
 ## 目前已有功能:
 1. **自動尋找田地並且耕種**
